@@ -1,3 +1,4 @@
+#import regular expression module
 import re
 
 # List of keywords considered anomalies
