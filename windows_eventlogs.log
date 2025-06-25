@@ -1,0 +1,1000 @@
+06/24/2025 11:16:11 AM Warning Windows Update EventID 1000 User: Guest - Suspicious process started detected by system.
+06/24/2025 11:15:11 AM Critical Windows Update EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 11:14:11 AM Warning Service Control Manager EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 11:13:11 AM Error Application Error EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 11:12:11 AM Critical Service Control Manager EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 11:11:11 AM Information Application Error EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 11:10:11 AM Information Application Error EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 11:09:11 AM Error Application Error EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 11:08:11 AM Information Security EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 11:07:11 AM Information Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 11:06:11 AM Information System EventID 1002 User: User1 - High CPU usage detected by system.
+06/24/2025 11:05:11 AM Error Windows Update EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 11:04:11 AM Critical Windows Update EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 11:03:11 AM Warning System EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 11:02:11 AM Warning Application Error EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 11:01:11 AM Warning System EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 11:00:11 AM Warning Security EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:59:11 AM Warning Windows Update EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 10:58:11 AM Critical Service Control Manager EventID 4625 User: LocalService - The operation completed successfully.
+06/24/2025 10:57:11 AM Warning Application Error EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 10:56:11 AM Error Application Error EventID 1001 User: User1 - High CPU usage detected by system.
+06/24/2025 10:55:11 AM Warning Application Error EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 10:54:11 AM Error System EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 10:53:11 AM Warning System EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:52:11 AM Error Security EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 10:51:11 AM Information Windows Update EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 10:50:11 AM Critical Service Control Manager EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 10:49:11 AM Information Service Control Manager EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 10:48:11 AM Error Service Control Manager EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 10:47:11 AM Warning Windows Update EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 10:46:11 AM Information Service Control Manager EventID 6005 User: LocalService - Service crash detected by system.
+06/24/2025 10:45:11 AM Critical System EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 10:44:11 AM Information Application Error EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 10:43:11 AM Error Security EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 10:42:11 AM Error Windows Update EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 10:41:11 AM Information Service Control Manager EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:40:11 AM Information System EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 10:39:11 AM Critical Service Control Manager EventID 6005 User: Guest - The operation completed successfully.
+06/24/2025 10:38:11 AM Critical Security EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 10:37:11 AM Information Security EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 10:36:11 AM Information Security EventID 7031 User: Admin - Multiple failed logins detected by system.
+06/24/2025 10:35:11 AM Information Application Error EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 10:34:11 AM Error Service Control Manager EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 10:33:11 AM Information Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:32:11 AM Information System EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:31:11 AM Critical System EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 10:30:11 AM Warning Windows Update EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 10:29:11 AM Error Application Error EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 10:28:11 AM Critical System EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:27:11 AM Information Service Control Manager EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:26:11 AM Information Application Error EventID 1101 User: Guest - Port scanning activity detected by system.
+06/24/2025 10:25:11 AM Warning Security EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 10:24:11 AM Warning Security EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 10:23:11 AM Warning Service Control Manager EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 10:22:11 AM Error Service Control Manager EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 10:21:11 AM Information Windows Update EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 10:20:11 AM Critical Security EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 10:19:11 AM Critical Application Error EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:18:11 AM Information Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 10:17:11 AM Warning Windows Update EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:16:11 AM Critical Windows Update EventID 7031 User: Guest - Service crash detected by system.
+06/24/2025 10:15:11 AM Information Service Control Manager EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 10:14:11 AM Information Application Error EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:13:11 AM Error Service Control Manager EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:12:11 AM Warning System EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 10:11:11 AM Error System EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:10:11 AM Warning Service Control Manager EventID 1000 User: LocalService - The operation completed successfully.
+06/24/2025 10:09:11 AM Error Application Error EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 10:08:11 AM Error Windows Update EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:07:11 AM Critical Windows Update EventID 4625 User: Admin - The operation completed successfully.
+06/24/2025 10:06:11 AM Error Service Control Manager EventID 1026 User: SYSTEM - Port scanning activity detected by system.
+06/24/2025 10:05:11 AM Error System EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 10:04:11 AM Error System EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 10:03:11 AM Information System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 10:02:11 AM Warning Application Error EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 10:01:11 AM Warning Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 10:00:11 AM Information Service Control Manager EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 09:59:11 AM Error Service Control Manager EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 09:58:11 AM Error Windows Update EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:57:11 AM Warning Application Error EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 09:56:11 AM Warning Windows Update EventID 1000 User: SYSTEM - Service crash detected by system.
+06/24/2025 09:55:11 AM Warning Security EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 09:54:11 AM Warning Service Control Manager EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 09:53:11 AM Information System EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 09:52:11 AM Critical System EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:51:11 AM Information Application Error EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 09:50:11 AM Critical Windows Update EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:49:11 AM Critical Security EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:48:11 AM Error System EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 09:47:11 AM Warning Security EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 09:46:11 AM Warning Security EventID 1001 User: LocalService - Suspicious process started detected by system.
+06/24/2025 09:45:11 AM Warning Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 09:44:11 AM Information System EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 09:43:11 AM Critical Windows Update EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:42:11 AM Information System EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 09:41:11 AM Critical Service Control Manager EventID 4625 User: Admin - The operation completed successfully.
+06/24/2025 09:40:11 AM Information Windows Update EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:39:11 AM Critical Security EventID 4625 User: Admin - The operation completed successfully.
+06/24/2025 09:38:11 AM Error System EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:37:11 AM Warning Security EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 09:36:11 AM Error System EventID 4625 User: Admin - Unauthorized access attempt detected by system.
+06/24/2025 09:35:11 AM Critical System EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 09:34:11 AM Critical System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:33:11 AM Warning Application Error EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 09:32:11 AM Error Windows Update EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:31:11 AM Information Service Control Manager EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:30:11 AM Critical Windows Update EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 09:29:11 AM Critical System EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 09:28:11 AM Warning Service Control Manager EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 09:27:11 AM Error Security EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:26:11 AM Error System EventID 1026 User: LocalService - Port scanning activity detected by system.
+06/24/2025 09:25:11 AM Information Application Error EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 09:24:11 AM Information Service Control Manager EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:23:11 AM Information Application Error EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 09:22:11 AM Warning Security EventID 1004 User: Admin - The operation completed successfully.
+06/24/2025 09:21:11 AM Information Service Control Manager EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 09:20:11 AM Critical Windows Update EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 09:19:11 AM Error System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:18:11 AM Critical Windows Update EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:17:11 AM Critical Security EventID 1004 User: Admin - The operation completed successfully.
+06/24/2025 09:16:11 AM Information Security EventID 1101 User: Guest - High CPU usage detected by system.
+06/24/2025 09:15:11 AM Warning System EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 09:14:11 AM Critical System EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:13:11 AM Warning System EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 09:12:11 AM Information Application Error EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 09:11:11 AM Error Service Control Manager EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 09:10:11 AM Information System EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 09:09:11 AM Error Application Error EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:08:11 AM Error System EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 09:07:11 AM Critical Application Error EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 09:06:11 AM Error Application Error EventID 7031 User: Admin - Unauthorized access attempt detected by system.
+06/24/2025 09:05:11 AM Information Service Control Manager EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 09:04:11 AM Warning Security EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 09:03:11 AM Information Application Error EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 09:02:11 AM Critical Security EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 09:01:11 AM Critical Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 09:00:11 AM Critical Security EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 08:59:11 AM Information System EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 08:58:11 AM Error Security EventID 6005 User: Guest - The operation completed successfully.
+06/24/2025 08:57:11 AM Critical Security EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 08:56:11 AM Warning Windows Update EventID 6005 User: LocalService - Unexpected shutdown detected by system.
+06/24/2025 08:55:11 AM Warning Application Error EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 08:54:11 AM Error Service Control Manager EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 08:53:11 AM Critical Windows Update EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 08:52:11 AM Information Application Error EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:51:11 AM Warning Service Control Manager EventID 1026 User: User1 - The operation completed successfully.
+06/24/2025 08:50:11 AM Error Security EventID 1000 User: LocalService - The operation completed successfully.
+06/24/2025 08:49:11 AM Warning Security EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 08:48:11 AM Warning Application Error EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 08:47:11 AM Information Service Control Manager EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 08:46:11 AM Information Service Control Manager EventID 1002 User: User1 - High CPU usage detected by system.
+06/24/2025 08:45:11 AM Information System EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 08:44:11 AM Error Service Control Manager EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:43:11 AM Error Service Control Manager EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 08:42:11 AM Error Windows Update EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:41:11 AM Critical Windows Update EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 08:40:11 AM Error Application Error EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:39:11 AM Critical Security EventID 1000 User: LocalService - The operation completed successfully.
+06/24/2025 08:38:11 AM Critical Security EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 08:37:11 AM Error Windows Update EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 08:36:11 AM Warning Service Control Manager EventID 1101 User: SYSTEM - High CPU usage detected by system.
+06/24/2025 08:35:11 AM Error Windows Update EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 08:34:11 AM Information System EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 08:33:11 AM Warning Service Control Manager EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 08:32:11 AM Warning Security EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:31:11 AM Warning Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 08:30:11 AM Warning Service Control Manager EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 08:29:11 AM Information Service Control Manager EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 08:28:11 AM Warning Security EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 08:27:11 AM Error Application Error EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 08:26:11 AM Critical Windows Update EventID 1004 User: Admin - Malware detection detected by system.
+06/24/2025 08:25:11 AM Critical System EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 08:24:11 AM Critical Windows Update EventID 6005 User: Guest - The operation completed successfully.
+06/24/2025 08:23:11 AM Warning Service Control Manager EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 08:22:11 AM Error Service Control Manager EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 08:21:11 AM Critical System EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 08:20:11 AM Warning Application Error EventID 1026 User: User1 - The operation completed successfully.
+06/24/2025 08:19:11 AM Error Security EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 08:18:11 AM Error System EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:17:11 AM Error Application Error EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 08:16:11 AM Warning Security EventID 1101 User: Admin - Unexpected shutdown detected by system.
+06/24/2025 08:15:11 AM Information Application Error EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 08:14:11 AM Warning Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 08:13:11 AM Warning Windows Update EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:12:11 AM Critical Security EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 08:11:11 AM Information Security EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 08:10:11 AM Warning Service Control Manager EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 08:09:11 AM Information Windows Update EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 08:08:11 AM Critical Security EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 08:07:11 AM Warning Windows Update EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 08:06:11 AM Information Security EventID 6005 User: LocalService - Multiple failed logins detected by system.
+06/24/2025 08:05:11 AM Error Windows Update EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 08:04:11 AM Error Windows Update EventID 4625 User: Admin - The operation completed successfully.
+06/24/2025 08:03:11 AM Error Application Error EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 08:02:11 AM Warning Windows Update EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:01:11 AM Error Application Error EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 08:00:11 AM Warning Application Error EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 07:59:11 AM Error Application Error EventID 1000 User: LocalService - The operation completed successfully.
+06/24/2025 07:58:11 AM Information Security EventID 6005 User: Guest - The operation completed successfully.
+06/24/2025 07:57:11 AM Critical Windows Update EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 07:56:11 AM Error Windows Update EventID 6005 User: User1 - High CPU usage detected by system.
+06/24/2025 07:55:11 AM Error System EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 07:54:11 AM Critical Service Control Manager EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 07:53:11 AM Information Service Control Manager EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 07:52:11 AM Warning Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:51:11 AM Warning System EventID 6005 User: Guest - The operation completed successfully.
+06/24/2025 07:50:11 AM Error System EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:49:11 AM Critical Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 07:48:11 AM Information Service Control Manager EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 07:47:11 AM Warning System EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 07:46:11 AM Critical Windows Update EventID 4625 User: Guest - Suspicious process started detected by system.
+06/24/2025 07:45:11 AM Error Windows Update EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 07:44:11 AM Error System EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:43:11 AM Information Security EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 07:42:11 AM Critical Windows Update EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:41:11 AM Warning Service Control Manager EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 07:40:11 AM Error Service Control Manager EventID 1000 User: LocalService - The operation completed successfully.
+06/24/2025 07:39:11 AM Warning Security EventID 1004 User: Admin - The operation completed successfully.
+06/24/2025 07:38:11 AM Information Application Error EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 07:37:11 AM Critical Windows Update EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 07:36:11 AM Information Application Error EventID 1101 User: Guest - High CPU usage detected by system.
+06/24/2025 07:35:11 AM Error Security EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:34:11 AM Information Windows Update EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 07:33:11 AM Warning System EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 07:32:11 AM Critical Service Control Manager EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:31:11 AM Critical Application Error EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 07:30:11 AM Error Service Control Manager EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 07:29:11 AM Critical Security EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 07:28:11 AM Information System EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 07:27:11 AM Critical Windows Update EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 07:26:11 AM Critical System EventID 1004 User: Admin - Suspicious process started detected by system.
+06/24/2025 07:25:11 AM Critical Service Control Manager EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 07:24:11 AM Critical Service Control Manager EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 07:23:11 AM Error Service Control Manager EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 07:22:11 AM Information Application Error EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 07:21:11 AM Warning Security EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 07:20:11 AM Warning Security EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 07:19:11 AM Critical Application Error EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 07:18:11 AM Error Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 07:17:11 AM Critical Windows Update EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 07:16:11 AM Information Windows Update EventID 6005 User: SYSTEM - Malware detection detected by system.
+06/24/2025 07:15:11 AM Information Windows Update EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 07:14:11 AM Error Security EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:13:11 AM Warning Windows Update EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 07:12:11 AM Warning Service Control Manager EventID 6005 User: Guest - The operation completed successfully.
+06/24/2025 07:11:11 AM Error System EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:10:11 AM Information Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 07:09:11 AM Warning Service Control Manager EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 07:08:11 AM Error Windows Update EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 07:07:11 AM Error Windows Update EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 07:06:11 AM Critical Windows Update EventID 7031 User: LocalService - Port scanning activity detected by system.
+06/24/2025 07:05:11 AM Error Windows Update EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 07:04:11 AM Error Service Control Manager EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:03:11 AM Critical Service Control Manager EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 07:02:11 AM Error Windows Update EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 07:01:11 AM Warning Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 07:00:11 AM Error Security EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 06:59:11 AM Warning Windows Update EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 06:58:11 AM Error Application Error EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 06:57:11 AM Information System EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 06:56:11 AM Error Application Error EventID 4625 User: SYSTEM - Malware detection detected by system.
+06/24/2025 06:55:11 AM Warning Application Error EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 06:54:11 AM Warning Service Control Manager EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 06:53:11 AM Information Application Error EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 06:52:11 AM Critical System EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 06:51:11 AM Critical Windows Update EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 06:50:11 AM Warning Application Error EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 06:49:11 AM Warning Security EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 06:48:11 AM Error Application Error EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 06:47:11 AM Error Application Error EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 06:46:11 AM Critical System EventID 7031 User: SYSTEM - Port scanning activity detected by system.
+06/24/2025 06:45:11 AM Warning Windows Update EventID 4625 User: LocalService - The operation completed successfully.
+06/24/2025 06:44:11 AM Information Security EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 06:43:11 AM Warning Application Error EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 06:42:11 AM Information Application Error EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 06:41:11 AM Warning Windows Update EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 06:40:11 AM Information System EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 06:39:11 AM Critical Windows Update EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 06:38:11 AM Error System EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 06:37:11 AM Error Security EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 06:36:11 AM Information Application Error EventID 7000 User: Admin - Unauthorized access attempt detected by system.
+06/24/2025 06:35:11 AM Critical Service Control Manager EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 06:34:11 AM Warning System EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 06:33:11 AM Error Application Error EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 06:32:11 AM Critical Service Control Manager EventID 1026 User: User1 - The operation completed successfully.
+06/24/2025 06:31:11 AM Critical Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 06:30:11 AM Error Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 06:29:11 AM Information Service Control Manager EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 06:28:11 AM Warning Service Control Manager EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 06:27:11 AM Warning Application Error EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 06:26:11 AM Critical Windows Update EventID 4625 User: LocalService - Malware detection detected by system.
+06/24/2025 06:25:11 AM Information Application Error EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 06:24:11 AM Warning Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 06:23:11 AM Warning Application Error EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 06:22:11 AM Error Windows Update EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 06:21:11 AM Information Service Control Manager EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 06:20:11 AM Warning System EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 06:19:11 AM Warning Windows Update EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 06:18:11 AM Error Security EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 06:17:11 AM Error Application Error EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 06:16:11 AM Error Application Error EventID 7000 User: User1 - Unexpected shutdown detected by system.
+06/24/2025 06:15:11 AM Information System EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 06:14:11 AM Critical Windows Update EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 06:13:11 AM Critical Windows Update EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 06:12:11 AM Warning Application Error EventID 1004 User: Admin - The operation completed successfully.
+06/24/2025 06:11:11 AM Critical Application Error EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 06:10:11 AM Critical Application Error EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 06:09:11 AM Critical Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 06:08:11 AM Warning Application Error EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 06:07:11 AM Error Application Error EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 06:06:11 AM Critical Security EventID 1101 User: Guest - Service crash detected by system.
+06/24/2025 06:05:11 AM Error Security EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 06:04:11 AM Information Security EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 06:03:11 AM Information Application Error EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 06:02:11 AM Critical System EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 06:01:11 AM Error Application Error EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 06:00:11 AM Error Security EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:59:11 AM Critical Application Error EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 05:58:11 AM Error System EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:57:11 AM Error Windows Update EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:56:11 AM Error Service Control Manager EventID 1001 User: Guest - Suspicious process started detected by system.
+06/24/2025 05:55:11 AM Error System EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 05:54:11 AM Information System EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 05:53:11 AM Warning Security EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 05:52:11 AM Warning Service Control Manager EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 05:51:11 AM Information Windows Update EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 05:50:11 AM Critical Windows Update EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 05:49:11 AM Error Service Control Manager EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 05:48:11 AM Information Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:47:11 AM Information Security EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:46:11 AM Critical Windows Update EventID 1004 User: SYSTEM - Service crash detected by system.
+06/24/2025 05:45:11 AM Error System EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 05:44:11 AM Information Security EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:43:11 AM Warning Application Error EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 05:42:11 AM Information Application Error EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 05:41:11 AM Critical Application Error EventID 1000 User: LocalService - The operation completed successfully.
+06/24/2025 05:40:11 AM Information Security EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 05:39:11 AM Warning Service Control Manager EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 05:38:11 AM Critical Application Error EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 05:37:11 AM Information Windows Update EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 05:36:11 AM Information Service Control Manager EventID 1101 User: Guest - Service crash detected by system.
+06/24/2025 05:35:11 AM Error Application Error EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 05:34:11 AM Critical Windows Update EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 05:33:11 AM Information Security EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 05:32:11 AM Error Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 05:31:11 AM Information Service Control Manager EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 05:30:11 AM Error Application Error EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 05:29:11 AM Warning Security EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 05:28:11 AM Warning Service Control Manager EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 05:27:11 AM Critical Application Error EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 05:26:11 AM Warning System EventID 1026 User: SYSTEM - Malware detection detected by system.
+06/24/2025 05:25:11 AM Error Windows Update EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:24:11 AM Critical Application Error EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 05:23:11 AM Warning System EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 05:22:11 AM Error Application Error EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 05:21:11 AM Warning Security EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 05:20:11 AM Warning Service Control Manager EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 05:19:11 AM Error Windows Update EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 05:18:11 AM Warning Security EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 05:17:11 AM Error Windows Update EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 05:16:11 AM Information System EventID 1004 User: User1 - Malware detection detected by system.
+06/24/2025 05:15:11 AM Warning System EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:14:11 AM Error Windows Update EventID 1000 User: LocalService - The operation completed successfully.
+06/24/2025 05:13:11 AM Error Application Error EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 05:12:11 AM Error Windows Update EventID 1004 User: Admin - The operation completed successfully.
+06/24/2025 05:11:11 AM Information Windows Update EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:10:11 AM Information System EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 05:09:11 AM Information Application Error EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 05:08:11 AM Error Windows Update EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 05:07:11 AM Error Application Error EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:06:11 AM Critical Service Control Manager EventID 7000 User: Guest - Malware detection detected by system.
+06/24/2025 05:05:11 AM Information Service Control Manager EventID 7031 User: Guest - The operation completed successfully.
+06/24/2025 05:04:11 AM Critical Security EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:03:11 AM Error System EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 05:02:11 AM Error Security EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 05:01:11 AM Information Application Error EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 05:00:11 AM Warning System EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 04:59:11 AM Error Security EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:58:11 AM Critical Security EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 04:57:11 AM Warning Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:56:11 AM Critical Windows Update EventID 1004 User: Admin - Service crash detected by system.
+06/24/2025 04:55:11 AM Critical Windows Update EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 04:54:11 AM Information Windows Update EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:53:11 AM Error System EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 04:52:11 AM Warning Windows Update EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 04:51:11 AM Warning Windows Update EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:50:11 AM Information Service Control Manager EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:49:11 AM Error System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:48:11 AM Error Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:47:11 AM Critical Service Control Manager EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 04:46:11 AM Information Windows Update EventID 6005 User: User1 - Suspicious process started detected by system.
+06/24/2025 04:45:11 AM Information Service Control Manager EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 04:44:11 AM Information Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:43:11 AM Warning Windows Update EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 04:42:11 AM Critical Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 04:41:11 AM Error Service Control Manager EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:40:11 AM Warning Security EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 04:39:11 AM Warning Service Control Manager EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 04:38:11 AM Error Service Control Manager EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 04:37:11 AM Critical Windows Update EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 04:36:11 AM Error Windows Update EventID 1002 User: User1 - High CPU usage detected by system.
+06/24/2025 04:35:11 AM Information System EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 04:34:11 AM Information Windows Update EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 04:33:11 AM Error Windows Update EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:32:11 AM Error Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 04:31:11 AM Critical Service Control Manager EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 04:30:11 AM Critical Application Error EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 04:29:11 AM Warning Security EventID 1004 User: Admin - The operation completed successfully.
+06/24/2025 04:28:11 AM Critical Security EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 04:27:11 AM Information Windows Update EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 04:26:11 AM Critical Windows Update EventID 1004 User: Guest - Service crash detected by system.
+06/24/2025 04:25:11 AM Error Security EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:24:11 AM Warning System EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 04:23:11 AM Critical Security EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 04:22:11 AM Critical Service Control Manager EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 04:21:11 AM Critical Windows Update EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 04:20:11 AM Information Security EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 04:19:11 AM Information Service Control Manager EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 04:18:11 AM Information Service Control Manager EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 04:17:11 AM Error Windows Update EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 04:16:11 AM Error Windows Update EventID 1001 User: User1 - Suspicious process started detected by system.
+06/24/2025 04:15:11 AM Warning Windows Update EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 04:14:11 AM Warning Application Error EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:13:11 AM Error System EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 04:12:11 AM Warning System EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 04:11:11 AM Critical System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:10:11 AM Error Security EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 04:09:11 AM Information System EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 04:08:11 AM Error Service Control Manager EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 04:07:11 AM Warning Windows Update EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 04:06:11 AM Information System EventID 1101 User: Admin - Suspicious process started detected by system.
+06/24/2025 04:05:11 AM Error Windows Update EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 04:04:11 AM Critical Application Error EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:03:11 AM Critical System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:02:11 AM Error Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 04:01:11 AM Warning Windows Update EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 04:00:11 AM Error Service Control Manager EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:59:11 AM Information Security EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 03:58:11 AM Error System EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 03:57:11 AM Critical System EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:56:11 AM Critical Windows Update EventID 1101 User: Admin - High CPU usage detected by system.
+06/24/2025 03:55:11 AM Information Security EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 03:54:11 AM Information Security EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 03:53:11 AM Information Service Control Manager EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:52:11 AM Warning Service Control Manager EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 03:51:11 AM Warning Windows Update EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 03:50:11 AM Critical Security EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 03:49:11 AM Critical Security EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 03:48:11 AM Warning Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 03:47:11 AM Error Application Error EventID 1026 User: User1 - The operation completed successfully.
+06/24/2025 03:46:11 AM Error Service Control Manager EventID 4625 User: User1 - Malware detection detected by system.
+06/24/2025 03:45:11 AM Critical Windows Update EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 03:44:11 AM Information Application Error EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 03:43:11 AM Information Application Error EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 03:42:11 AM Information System EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 03:41:11 AM Information Security EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 03:40:11 AM Information System EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 03:39:11 AM Critical Security EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 03:38:11 AM Warning Security EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 03:37:11 AM Critical Service Control Manager EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:36:11 AM Error Security EventID 1004 User: User1 - Suspicious process started detected by system.
+06/24/2025 03:35:11 AM Information Application Error EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 03:34:11 AM Information Windows Update EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:33:11 AM Information Windows Update EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:32:11 AM Error Windows Update EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 03:31:11 AM Information Security EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 03:30:11 AM Critical Windows Update EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:29:11 AM Warning Service Control Manager EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:28:11 AM Error Windows Update EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:27:11 AM Information Security EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 03:26:11 AM Error System EventID 1026 User: Guest - Suspicious process started detected by system.
+06/24/2025 03:25:11 AM Error Security EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 03:24:11 AM Error System EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 03:23:11 AM Information Application Error EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 03:22:11 AM Critical Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:21:11 AM Information System EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 03:20:11 AM Critical Security EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:19:11 AM Warning System EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:18:11 AM Critical Windows Update EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 03:17:11 AM Warning Application Error EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 03:16:11 AM Warning Windows Update EventID 7000 User: Admin - Suspicious process started detected by system.
+06/24/2025 03:15:11 AM Critical Application Error EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:14:11 AM Error Service Control Manager EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 03:13:11 AM Critical Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 03:12:11 AM Information Application Error EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 03:11:11 AM Information Application Error EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 03:10:11 AM Critical System EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 03:09:11 AM Warning System EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 03:08:11 AM Critical Windows Update EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:07:11 AM Warning System EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 03:06:11 AM Error Application Error EventID 4625 User: LocalService - Unexpected shutdown detected by system.
+06/24/2025 03:05:11 AM Information Service Control Manager EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 03:04:11 AM Critical Security EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 03:03:11 AM Warning Application Error EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 03:02:11 AM Critical Security EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 03:01:11 AM Critical System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 03:00:11 AM Critical Application Error EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 02:59:11 AM Information System EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 02:58:11 AM Information Security EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 02:57:11 AM Critical Application Error EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 02:56:11 AM Error Security EventID 1026 User: User1 - High CPU usage detected by system.
+06/24/2025 02:55:11 AM Information Service Control Manager EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 02:54:11 AM Error Service Control Manager EventID 4625 User: Admin - The operation completed successfully.
+06/24/2025 02:53:11 AM Critical Windows Update EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 02:52:11 AM Error Application Error EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 02:51:11 AM Error Security EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:50:11 AM Warning System EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:49:11 AM Critical Windows Update EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 02:48:11 AM Critical Windows Update EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 02:47:11 AM Information Application Error EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 02:46:11 AM Critical Application Error EventID 1000 User: Guest - Malware detection detected by system.
+06/24/2025 02:45:11 AM Information Application Error EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 02:44:11 AM Information Windows Update EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 02:43:11 AM Information Application Error EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:42:11 AM Critical System EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 02:41:11 AM Error Application Error EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:40:11 AM Error System EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:39:11 AM Warning Security EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 02:38:11 AM Critical Application Error EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 02:37:11 AM Information Security EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 02:36:11 AM Critical Service Control Manager EventID 4625 User: Admin - Multiple failed logins detected by system.
+06/24/2025 02:35:11 AM Information System EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 02:34:11 AM Error Application Error EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 02:33:11 AM Critical Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 02:32:11 AM Critical Application Error EventID 6005 User: Admin - The operation completed successfully.
+06/24/2025 02:31:11 AM Error System EventID 4625 User: Admin - The operation completed successfully.
+06/24/2025 02:30:11 AM Warning Security EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 02:29:11 AM Critical System EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 02:28:11 AM Error Service Control Manager EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:27:11 AM Warning Application Error EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:26:11 AM Information Service Control Manager EventID 4625 User: SYSTEM - Unauthorized access attempt detected by system.
+06/24/2025 02:25:11 AM Information Windows Update EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 02:24:11 AM Error Windows Update EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:23:11 AM Error Service Control Manager EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 02:22:11 AM Information Service Control Manager EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:21:11 AM Warning Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 02:20:11 AM Error Security EventID 6005 User: User1 - The operation completed successfully.
+06/24/2025 02:19:11 AM Critical Service Control Manager EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 02:18:11 AM Warning Security EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 02:17:11 AM Critical Application Error EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 02:16:11 AM Critical Application Error EventID 1004 User: SYSTEM - High CPU usage detected by system.
+06/24/2025 02:15:11 AM Critical Security EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:14:11 AM Information Application Error EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:13:11 AM Critical Application Error EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 02:12:11 AM Error Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 02:11:11 AM Critical Windows Update EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 02:10:11 AM Error Application Error EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 02:09:11 AM Error System EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 02:08:11 AM Information Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 02:07:11 AM Critical System EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 02:06:11 AM Information Application Error EventID 7000 User: LocalService - Malware detection detected by system.
+06/24/2025 02:05:11 AM Error Security EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 02:04:11 AM Critical Security EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 02:03:11 AM Information Security EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 02:02:11 AM Critical Service Control Manager EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 02:01:11 AM Information Application Error EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 02:00:11 AM Warning Service Control Manager EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 01:59:11 AM Information Windows Update EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 01:58:11 AM Warning Application Error EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 01:57:11 AM Critical Application Error EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:56:11 AM Warning System EventID 1000 User: User1 - Port scanning activity detected by system.
+06/24/2025 01:55:11 AM Warning Windows Update EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:54:11 AM Information Security EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 01:53:11 AM Critical System EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 01:52:11 AM Information System EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 01:51:11 AM Critical System EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:50:11 AM Warning System EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 01:49:11 AM Information System EventID 1002 User: Admin - The operation completed successfully.
+06/24/2025 01:48:11 AM Warning Windows Update EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:47:11 AM Information Application Error EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:46:11 AM Critical System EventID 1004 User: Admin - Port scanning activity detected by system.
+06/24/2025 01:45:11 AM Information Service Control Manager EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 01:44:11 AM Information Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:43:11 AM Information Security EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:42:11 AM Error Service Control Manager EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:41:11 AM Information Security EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 01:40:11 AM Warning Application Error EventID 6005 User: Guest - The operation completed successfully.
+06/24/2025 01:39:11 AM Information Windows Update EventID 1000 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:38:11 AM Critical Service Control Manager EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:37:11 AM Information Application Error EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 01:36:11 AM Critical Service Control Manager EventID 4625 User: Guest - Service crash detected by system.
+06/24/2025 01:35:11 AM Information Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 01:34:11 AM Warning Security EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 01:33:11 AM Warning Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/24/2025 01:32:11 AM Error Security EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 01:31:11 AM Warning System EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 01:30:11 AM Critical Application Error EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 01:29:11 AM Error Service Control Manager EventID 1004 User: Guest - The operation completed successfully.
+06/24/2025 01:28:11 AM Critical Security EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 01:27:11 AM Warning System EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:26:11 AM Critical System EventID 1000 User: LocalService - High CPU usage detected by system.
+06/24/2025 01:25:11 AM Warning Service Control Manager EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:24:11 AM Critical Security EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 01:23:11 AM Error System EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 01:22:11 AM Information Application Error EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 01:21:11 AM Error Windows Update EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 01:20:11 AM Critical Service Control Manager EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 01:19:11 AM Information Security EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:18:11 AM Critical Security EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 01:17:11 AM Information Application Error EventID 1101 User: LocalService - The operation completed successfully.
+06/24/2025 01:16:11 AM Information Application Error EventID 1000 User: LocalService - Port scanning activity detected by system.
+06/24/2025 01:15:11 AM Error Application Error EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 01:14:11 AM Warning Service Control Manager EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 01:13:11 AM Warning Security EventID 1026 User: Admin - The operation completed successfully.
+06/24/2025 01:12:11 AM Error Security EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 01:11:11 AM Information Security EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 01:10:11 AM Critical System EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 01:09:11 AM Error Service Control Manager EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 01:08:11 AM Error Service Control Manager EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 01:07:11 AM Critical Windows Update EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 01:06:11 AM Information Windows Update EventID 1000 User: Guest - High CPU usage detected by system.
+06/24/2025 01:05:11 AM Critical Security EventID 7031 User: SYSTEM - The operation completed successfully.
+06/24/2025 01:04:11 AM Warning System EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 01:03:11 AM Error Application Error EventID 4625 User: LocalService - The operation completed successfully.
+06/24/2025 01:02:11 AM Warning System EventID 7031 User: LocalService - The operation completed successfully.
+06/24/2025 01:01:11 AM Error Service Control Manager EventID 1026 User: User1 - The operation completed successfully.
+06/24/2025 01:00:11 AM Warning Application Error EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 12:59:11 AM Critical Service Control Manager EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:58:11 AM Critical System EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 12:57:11 AM Critical Windows Update EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 12:56:11 AM Error Security EventID 1101 User: LocalService - Multiple failed logins detected by system.
+06/24/2025 12:55:11 AM Error Service Control Manager EventID 1001 User: LocalService - The operation completed successfully.
+06/24/2025 12:54:11 AM Error System EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 12:53:11 AM Critical Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 12:52:11 AM Information Security EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 12:51:11 AM Information Application Error EventID 7000 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:50:11 AM Information Service Control Manager EventID 7031 User: User1 - The operation completed successfully.
+06/24/2025 12:49:11 AM Error System EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 12:48:11 AM Information System EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:47:11 AM Error System EventID 7000 User: Guest - The operation completed successfully.
+06/24/2025 12:46:11 AM Error System EventID 1026 User: Guest - Unexpected shutdown detected by system.
+06/24/2025 12:45:11 AM Warning Security EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 12:44:11 AM Warning Application Error EventID 1001 User: User1 - The operation completed successfully.
+06/24/2025 12:43:11 AM Warning Service Control Manager EventID 7031 User: Admin - The operation completed successfully.
+06/24/2025 12:42:11 AM Information System EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 12:41:11 AM Warning Application Error EventID 6005 User: LocalService - The operation completed successfully.
+06/24/2025 12:40:11 AM Warning Windows Update EventID 1101 User: User1 - The operation completed successfully.
+06/24/2025 12:39:11 AM Critical Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/24/2025 12:38:11 AM Error Service Control Manager EventID 4625 User: LocalService - The operation completed successfully.
+06/24/2025 12:37:11 AM Critical Application Error EventID 1000 User: User1 - The operation completed successfully.
+06/24/2025 12:36:11 AM Critical System EventID 1001 User: Admin - High CPU usage detected by system.
+06/24/2025 12:35:11 AM Error Security EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 12:34:11 AM Warning Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/24/2025 12:33:11 AM Critical System EventID 1002 User: LocalService - The operation completed successfully.
+06/24/2025 12:32:11 AM Critical Windows Update EventID 1026 User: LocalService - The operation completed successfully.
+06/24/2025 12:31:11 AM Critical Windows Update EventID 1101 User: Admin - The operation completed successfully.
+06/24/2025 12:30:11 AM Error Application Error EventID 1002 User: User1 - The operation completed successfully.
+06/24/2025 12:29:11 AM Warning Service Control Manager EventID 7000 User: User1 - The operation completed successfully.
+06/24/2025 12:28:11 AM Information System EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 12:27:11 AM Error System EventID 7000 User: LocalService - The operation completed successfully.
+06/24/2025 12:26:11 AM Critical Service Control Manager EventID 6005 User: Guest - Multiple failed logins detected by system.
+06/24/2025 12:25:11 AM Information System EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 12:24:11 AM Critical Application Error EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 12:23:11 AM Warning Application Error EventID 1004 User: Admin - The operation completed successfully.
+06/24/2025 12:22:11 AM Critical System EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 12:21:11 AM Error Application Error EventID 6005 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:20:11 AM Warning Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:19:11 AM Error System EventID 4625 User: LocalService - The operation completed successfully.
+06/24/2025 12:18:11 AM Error Windows Update EventID 4625 User: User1 - The operation completed successfully.
+06/24/2025 12:17:11 AM Information Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:16:11 AM Error Application Error EventID 6005 User: SYSTEM - High CPU usage detected by system.
+06/24/2025 12:15:11 AM Information Application Error EventID 1101 User: Guest - The operation completed successfully.
+06/24/2025 12:14:11 AM Critical Service Control Manager EventID 1001 User: Guest - The operation completed successfully.
+06/24/2025 12:13:11 AM Information Application Error EventID 7000 User: Admin - The operation completed successfully.
+06/24/2025 12:12:11 AM Information Security EventID 1026 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:11:11 AM Error System EventID 1001 User: Admin - The operation completed successfully.
+06/24/2025 12:10:11 AM Critical Application Error EventID 1004 User: LocalService - The operation completed successfully.
+06/24/2025 12:09:11 AM Warning Security EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 12:08:11 AM Error Application Error EventID 1004 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:07:11 AM Critical Windows Update EventID 1026 User: Guest - The operation completed successfully.
+06/24/2025 12:06:11 AM Information Application Error EventID 1002 User: LocalService - Unexpected shutdown detected by system.
+06/24/2025 12:05:11 AM Error Windows Update EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 12:04:11 AM Critical Security EventID 1002 User: Guest - The operation completed successfully.
+06/24/2025 12:03:11 AM Error Security EventID 1101 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:02:11 AM Error Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/24/2025 12:01:11 AM Information Windows Update EventID 4625 User: Guest - The operation completed successfully.
+06/24/2025 12:00:11 AM Information Windows Update EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 11:59:11 PM Critical Windows Update EventID 1001 User: LocalService - The operation completed successfully.
+06/23/2025 11:58:11 PM Warning Windows Update EventID 7000 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:57:11 PM Information Application Error EventID 7031 User: LocalService - The operation completed successfully.
+06/23/2025 11:56:11 PM Error Security EventID 1004 User: Admin - High CPU usage detected by system.
+06/23/2025 11:55:11 PM Critical Service Control Manager EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 11:54:11 PM Error System EventID 1026 User: LocalService - The operation completed successfully.
+06/23/2025 11:53:11 PM Information Security EventID 1002 User: Guest - The operation completed successfully.
+06/23/2025 11:52:11 PM Information System EventID 1101 User: LocalService - The operation completed successfully.
+06/23/2025 11:51:11 PM Critical Security EventID 4625 User: Guest - The operation completed successfully.
+06/23/2025 11:50:11 PM Critical Service Control Manager EventID 1101 User: User1 - The operation completed successfully.
+06/23/2025 11:49:11 PM Warning Service Control Manager EventID 4625 User: Guest - The operation completed successfully.
+06/23/2025 11:48:11 PM Error System EventID 1026 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:47:11 PM Error Security EventID 6005 User: LocalService - The operation completed successfully.
+06/23/2025 11:46:11 PM Information Security EventID 1026 User: SYSTEM - Unauthorized access attempt detected by system.
+06/23/2025 11:45:11 PM Error Application Error EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 11:44:11 PM Critical Application Error EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:43:11 PM Error Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:42:11 PM Warning Windows Update EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 11:41:11 PM Warning Security EventID 1026 User: User1 - The operation completed successfully.
+06/23/2025 11:40:11 PM Information Application Error EventID 1101 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:39:11 PM Critical Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:38:11 PM Error Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/23/2025 11:37:11 PM Critical Windows Update EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 11:36:11 PM Information Security EventID 1101 User: User1 - Unauthorized access attempt detected by system.
+06/23/2025 11:35:11 PM Critical Service Control Manager EventID 1001 User: Guest - The operation completed successfully.
+06/23/2025 11:34:11 PM Information Windows Update EventID 1000 User: Admin - The operation completed successfully.
+06/23/2025 11:33:11 PM Critical Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:32:11 PM Error Security EventID 7000 User: Guest - The operation completed successfully.
+06/23/2025 11:31:11 PM Warning System EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 11:30:11 PM Critical Service Control Manager EventID 1026 User: Admin - The operation completed successfully.
+06/23/2025 11:29:11 PM Information Security EventID 7031 User: LocalService - The operation completed successfully.
+06/23/2025 11:28:11 PM Information Service Control Manager EventID 7031 User: LocalService - The operation completed successfully.
+06/23/2025 11:27:11 PM Information Windows Update EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 11:26:11 PM Warning Service Control Manager EventID 1000 User: LocalService - Port scanning activity detected by system.
+06/23/2025 11:25:11 PM Critical Service Control Manager EventID 1001 User: Admin - The operation completed successfully.
+06/23/2025 11:24:11 PM Error Windows Update EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 11:23:11 PM Critical Service Control Manager EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 11:22:11 PM Information Windows Update EventID 7000 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:21:11 PM Error Security EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 11:20:11 PM Warning Windows Update EventID 7000 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:19:11 PM Information Application Error EventID 6005 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:18:11 PM Warning Security EventID 7031 User: Admin - The operation completed successfully.
+06/23/2025 11:17:11 PM Warning Security EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 11:16:11 PM Critical Application Error EventID 1001 User: LocalService - Suspicious process started detected by system.
+06/23/2025 11:15:11 PM Error Security EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 11:14:11 PM Error Windows Update EventID 1026 User: LocalService - The operation completed successfully.
+06/23/2025 11:13:11 PM Information System EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 11:12:11 PM Error Windows Update EventID 1101 User: Admin - The operation completed successfully.
+06/23/2025 11:11:11 PM Information Service Control Manager EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:10:11 PM Critical Security EventID 4625 User: Guest - The operation completed successfully.
+06/23/2025 11:09:11 PM Critical Service Control Manager EventID 4625 User: User1 - The operation completed successfully.
+06/23/2025 11:08:11 PM Error Service Control Manager EventID 7000 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:07:11 PM Critical Windows Update EventID 4625 User: Guest - The operation completed successfully.
+06/23/2025 11:06:11 PM Error Security EventID 6005 User: Guest - Unauthorized access attempt detected by system.
+06/23/2025 11:05:11 PM Error Service Control Manager EventID 1001 User: User1 - The operation completed successfully.
+06/23/2025 11:04:11 PM Error Application Error EventID 1101 User: Admin - The operation completed successfully.
+06/23/2025 11:03:11 PM Information Service Control Manager EventID 7031 User: LocalService - The operation completed successfully.
+06/23/2025 11:02:11 PM Critical Application Error EventID 1002 User: Guest - The operation completed successfully.
+06/23/2025 11:01:11 PM Warning System EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 11:00:11 PM Warning Service Control Manager EventID 1101 User: User1 - The operation completed successfully.
+06/23/2025 10:59:11 PM Error Application Error EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 10:58:11 PM Error System EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 10:57:11 PM Error System EventID 7031 User: Admin - The operation completed successfully.
+06/23/2025 10:56:11 PM Warning Windows Update EventID 7000 User: Admin - Suspicious process started detected by system.
+06/23/2025 10:55:11 PM Error Service Control Manager EventID 4625 User: User1 - The operation completed successfully.
+06/23/2025 10:54:11 PM Error Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:53:11 PM Warning Application Error EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 10:52:11 PM Warning Security EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 10:51:11 PM Critical System EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 10:50:11 PM Information Application Error EventID 1004 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:49:11 PM Critical Security EventID 1004 User: LocalService - The operation completed successfully.
+06/23/2025 10:48:11 PM Warning System EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 10:47:11 PM Error Service Control Manager EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 10:46:11 PM Warning Windows Update EventID 7000 User: LocalService - Multiple failed logins detected by system.
+06/23/2025 10:45:11 PM Critical System EventID 1004 User: Admin - The operation completed successfully.
+06/23/2025 10:44:11 PM Critical Service Control Manager EventID 7000 User: Guest - The operation completed successfully.
+06/23/2025 10:43:11 PM Critical Windows Update EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 10:42:11 PM Critical Application Error EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 10:41:11 PM Warning Security EventID 1101 User: LocalService - The operation completed successfully.
+06/23/2025 10:40:11 PM Warning Service Control Manager EventID 7031 User: Admin - The operation completed successfully.
+06/23/2025 10:39:11 PM Warning Application Error EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 10:38:11 PM Warning Windows Update EventID 6005 User: LocalService - The operation completed successfully.
+06/23/2025 10:37:11 PM Information Windows Update EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 10:36:11 PM Warning System EventID 4625 User: Guest - High CPU usage detected by system.
+06/23/2025 10:35:11 PM Critical Security EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:34:11 PM Critical Application Error EventID 1002 User: Admin - The operation completed successfully.
+06/23/2025 10:33:11 PM Critical Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:32:11 PM Warning Application Error EventID 1101 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:31:11 PM Error Windows Update EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 10:30:11 PM Error Security EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:29:11 PM Information Service Control Manager EventID 4625 User: Admin - The operation completed successfully.
+06/23/2025 10:28:11 PM Critical Application Error EventID 1000 User: User1 - The operation completed successfully.
+06/23/2025 10:27:11 PM Information Security EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 10:26:11 PM Information Application Error EventID 7000 User: LocalService - Service crash detected by system.
+06/23/2025 10:25:11 PM Information Windows Update EventID 1101 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:24:11 PM Critical Windows Update EventID 1101 User: Guest - The operation completed successfully.
+06/23/2025 10:23:11 PM Critical Service Control Manager EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 10:22:11 PM Critical Application Error EventID 1001 User: Admin - The operation completed successfully.
+06/23/2025 10:21:11 PM Warning Security EventID 1001 User: Admin - The operation completed successfully.
+06/23/2025 10:20:11 PM Information Windows Update EventID 6005 User: LocalService - The operation completed successfully.
+06/23/2025 10:19:11 PM Error Application Error EventID 1101 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:18:11 PM Warning System EventID 4625 User: User1 - The operation completed successfully.
+06/23/2025 10:17:11 PM Information Service Control Manager EventID 4625 User: Admin - The operation completed successfully.
+06/23/2025 10:16:11 PM Error System EventID 4625 User: Guest - Unexpected shutdown detected by system.
+06/23/2025 10:15:11 PM Information Windows Update EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 10:14:11 PM Information Service Control Manager EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 10:13:11 PM Information System EventID 1000 User: LocalService - The operation completed successfully.
+06/23/2025 10:12:11 PM Warning Application Error EventID 1026 User: LocalService - The operation completed successfully.
+06/23/2025 10:11:11 PM Error Windows Update EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:10:11 PM Critical Security EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 10:09:11 PM Critical System EventID 1101 User: LocalService - The operation completed successfully.
+06/23/2025 10:08:11 PM Information Security EventID 7000 User: LocalService - The operation completed successfully.
+06/23/2025 10:07:11 PM Critical Security EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 10:06:11 PM Error System EventID 1004 User: LocalService - Suspicious process started detected by system.
+06/23/2025 10:05:11 PM Warning Application Error EventID 1000 User: User1 - The operation completed successfully.
+06/23/2025 10:04:11 PM Error Windows Update EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 10:03:11 PM Information Service Control Manager EventID 1002 User: SYSTEM - The operation completed successfully.
+06/23/2025 10:02:11 PM Critical Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/23/2025 10:01:11 PM Critical System EventID 4625 User: Admin - The operation completed successfully.
+06/23/2025 10:00:11 PM Warning System EventID 7031 User: Admin - The operation completed successfully.
+06/23/2025 09:59:11 PM Warning Security EventID 1002 User: LocalService - The operation completed successfully.
+06/23/2025 09:58:11 PM Error System EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:57:11 PM Information Windows Update EventID 1004 User: User1 - The operation completed successfully.
+06/23/2025 09:56:11 PM Information Windows Update EventID 7000 User: SYSTEM - Malware detection detected by system.
+06/23/2025 09:55:11 PM Error Security EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 09:54:11 PM Information Security EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 09:53:11 PM Critical System EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 09:52:11 PM Information Security EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 09:51:11 PM Critical Service Control Manager EventID 7000 User: LocalService - The operation completed successfully.
+06/23/2025 09:50:11 PM Critical Application Error EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 09:49:11 PM Information Service Control Manager EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:48:11 PM Critical Service Control Manager EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:47:11 PM Information Service Control Manager EventID 1101 User: LocalService - The operation completed successfully.
+06/23/2025 09:46:11 PM Warning Application Error EventID 1026 User: Guest - Port scanning activity detected by system.
+06/23/2025 09:45:11 PM Error Application Error EventID 1002 User: LocalService - The operation completed successfully.
+06/23/2025 09:44:11 PM Error System EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 09:43:11 PM Error Service Control Manager EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 09:42:11 PM Information Windows Update EventID 1001 User: Guest - The operation completed successfully.
+06/23/2025 09:41:11 PM Critical Windows Update EventID 1026 User: LocalService - The operation completed successfully.
+06/23/2025 09:40:11 PM Warning Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 09:39:11 PM Critical Security EventID 6005 User: LocalService - The operation completed successfully.
+06/23/2025 09:38:11 PM Warning Service Control Manager EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:37:11 PM Information System EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 09:36:11 PM Warning Security EventID 1101 User: LocalService - Unauthorized access attempt detected by system.
+06/23/2025 09:35:11 PM Warning Windows Update EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 09:34:11 PM Warning Application Error EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 09:33:11 PM Information Security EventID 1004 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:32:11 PM Warning Windows Update EventID 1002 User: Admin - The operation completed successfully.
+06/23/2025 09:31:11 PM Critical Service Control Manager EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 09:30:11 PM Warning Security EventID 1101 User: LocalService - The operation completed successfully.
+06/23/2025 09:29:11 PM Information Service Control Manager EventID 7000 User: LocalService - The operation completed successfully.
+06/23/2025 09:28:11 PM Warning Service Control Manager EventID 6005 User: LocalService - The operation completed successfully.
+06/23/2025 09:27:11 PM Warning Security EventID 1101 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:26:11 PM Critical Security EventID 1026 User: Admin - Service crash detected by system.
+06/23/2025 09:25:11 PM Critical Security EventID 1002 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:24:11 PM Warning System EventID 1101 User: Guest - The operation completed successfully.
+06/23/2025 09:23:11 PM Information Security EventID 4625 User: Admin - The operation completed successfully.
+06/23/2025 09:22:11 PM Warning System EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 09:21:11 PM Information System EventID 1001 User: LocalService - The operation completed successfully.
+06/23/2025 09:20:11 PM Critical Application Error EventID 1002 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:19:11 PM Error Windows Update EventID 1026 User: LocalService - The operation completed successfully.
+06/23/2025 09:18:11 PM Critical Service Control Manager EventID 1026 User: Admin - The operation completed successfully.
+06/23/2025 09:17:11 PM Warning Service Control Manager EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 09:16:11 PM Error Service Control Manager EventID 7000 User: Guest - Unauthorized access attempt detected by system.
+06/23/2025 09:15:11 PM Warning Application Error EventID 1026 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:14:11 PM Critical Service Control Manager EventID 7031 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:13:11 PM Warning Security EventID 1101 User: Admin - The operation completed successfully.
+06/23/2025 09:12:11 PM Error Windows Update EventID 7031 User: Admin - The operation completed successfully.
+06/23/2025 09:11:11 PM Warning Service Control Manager EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:10:11 PM Error Service Control Manager EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 09:09:11 PM Critical Security EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:08:11 PM Error Windows Update EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 09:07:11 PM Error Application Error EventID 1026 User: LocalService - The operation completed successfully.
+06/23/2025 09:06:11 PM Information Application Error EventID 1002 User: Guest - Suspicious process started detected by system.
+06/23/2025 09:05:11 PM Critical Application Error EventID 6005 User: LocalService - The operation completed successfully.
+06/23/2025 09:04:11 PM Critical Windows Update EventID 1004 User: Admin - The operation completed successfully.
+06/23/2025 09:03:11 PM Critical Security EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 09:02:11 PM Warning Security EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 09:01:11 PM Error System EventID 1004 User: SYSTEM - The operation completed successfully.
+06/23/2025 09:00:11 PM Warning Security EventID 1004 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:59:11 PM Error System EventID 1000 User: LocalService - The operation completed successfully.
+06/23/2025 08:58:11 PM Warning Security EventID 6005 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:57:11 PM Critical System EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:56:11 PM Critical Application Error EventID 4625 User: User1 - Multiple failed logins detected by system.
+06/23/2025 08:55:11 PM Critical Application Error EventID 1002 User: Admin - The operation completed successfully.
+06/23/2025 08:54:11 PM Error Service Control Manager EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:53:11 PM Information System EventID 1001 User: LocalService - The operation completed successfully.
+06/23/2025 08:52:11 PM Error Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:51:11 PM Critical Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 08:50:11 PM Error System EventID 1001 User: LocalService - The operation completed successfully.
+06/23/2025 08:49:11 PM Error Application Error EventID 1002 User: Guest - The operation completed successfully.
+06/23/2025 08:48:11 PM Information Application Error EventID 1001 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:47:11 PM Warning Security EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 08:46:11 PM Critical Service Control Manager EventID 1026 User: Admin - Port scanning activity detected by system.
+06/23/2025 08:45:11 PM Critical Security EventID 7031 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:44:11 PM Warning Application Error EventID 1026 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:43:11 PM Information Security EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 08:42:11 PM Warning System EventID 1002 User: Admin - The operation completed successfully.
+06/23/2025 08:41:11 PM Information Security EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 08:40:11 PM Information Service Control Manager EventID 7031 User: User1 - The operation completed successfully.
+06/23/2025 08:39:11 PM Error Service Control Manager EventID 1026 User: User1 - The operation completed successfully.
+06/23/2025 08:38:11 PM Warning Application Error EventID 1002 User: LocalService - The operation completed successfully.
+06/23/2025 08:37:11 PM Critical Security EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 08:36:11 PM Warning System EventID 1001 User: User1 - Malware detection detected by system.
+06/23/2025 08:35:11 PM Information Windows Update EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 08:34:11 PM Critical Service Control Manager EventID 1004 User: User1 - The operation completed successfully.
+06/23/2025 08:33:11 PM Critical Security EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:32:11 PM Warning Service Control Manager EventID 7031 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:31:11 PM Warning Service Control Manager EventID 1101 User: User1 - The operation completed successfully.
+06/23/2025 08:30:11 PM Error Application Error EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 08:29:11 PM Critical Service Control Manager EventID 1026 User: User1 - The operation completed successfully.
+06/23/2025 08:28:11 PM Warning System EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:27:11 PM Warning Service Control Manager EventID 1004 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:26:11 PM Warning Application Error EventID 1004 User: User1 - Unauthorized access attempt detected by system.
+06/23/2025 08:25:11 PM Warning System EventID 1002 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:24:11 PM Error Application Error EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 08:23:11 PM Warning System EventID 1002 User: LocalService - The operation completed successfully.
+06/23/2025 08:22:11 PM Warning Security EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 08:21:11 PM Warning Service Control Manager EventID 1000 User: Admin - The operation completed successfully.
+06/23/2025 08:20:11 PM Critical Service Control Manager EventID 1026 User: User1 - The operation completed successfully.
+06/23/2025 08:19:11 PM Critical Security EventID 1001 User: Guest - The operation completed successfully.
+06/23/2025 08:18:11 PM Error Windows Update EventID 6005 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:17:11 PM Information Security EventID 7000 User: Admin - The operation completed successfully.
+06/23/2025 08:16:11 PM Warning Security EventID 7000 User: SYSTEM - Multiple failed logins detected by system.
+06/23/2025 08:15:11 PM Critical Security EventID 1026 User: Admin - The operation completed successfully.
+06/23/2025 08:14:11 PM Critical Service Control Manager EventID 7000 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:13:11 PM Error Service Control Manager EventID 1101 User: Admin - The operation completed successfully.
+06/23/2025 08:12:11 PM Warning Application Error EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 08:11:11 PM Critical Windows Update EventID 1002 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:10:11 PM Error System EventID 1026 User: User1 - The operation completed successfully.
+06/23/2025 08:09:11 PM Critical System EventID 6005 User: Admin - The operation completed successfully.
+06/23/2025 08:08:11 PM Information System EventID 1026 User: Admin - The operation completed successfully.
+06/23/2025 08:07:11 PM Critical Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/23/2025 08:06:11 PM Critical Application Error EventID 4625 User: Admin - Suspicious process started detected by system.
+06/23/2025 08:05:11 PM Warning System EventID 1001 User: User1 - The operation completed successfully.
+06/23/2025 08:04:11 PM Information Security EventID 7031 User: LocalService - The operation completed successfully.
+06/23/2025 08:03:11 PM Information Windows Update EventID 1002 User: Admin - The operation completed successfully.
+06/23/2025 08:02:11 PM Error System EventID 7000 User: SYSTEM - The operation completed successfully.
+06/23/2025 08:01:11 PM Error Windows Update EventID 7000 User: Guest - The operation completed successfully.
+06/23/2025 08:00:11 PM Critical Application Error EventID 1002 User: Admin - The operation completed successfully.
+06/23/2025 07:59:11 PM Information Service Control Manager EventID 1000 User: Admin - The operation completed successfully.
+06/23/2025 07:58:11 PM Error Security EventID 1001 User: LocalService - The operation completed successfully.
+06/23/2025 07:57:11 PM Critical Service Control Manager EventID 1101 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:56:11 PM Information Application Error EventID 1004 User: User1 - Unauthorized access attempt detected by system.
+06/23/2025 07:55:11 PM Warning Application Error EventID 1026 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:54:11 PM Critical Service Control Manager EventID 1101 User: LocalService - The operation completed successfully.
+06/23/2025 07:53:11 PM Information Application Error EventID 1001 User: LocalService - The operation completed successfully.
+06/23/2025 07:52:11 PM Error Windows Update EventID 1026 User: User1 - The operation completed successfully.
+06/23/2025 07:51:11 PM Error Application Error EventID 7031 User: LocalService - The operation completed successfully.
+06/23/2025 07:50:11 PM Critical Service Control Manager EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 07:49:11 PM Warning Application Error EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 07:48:11 PM Critical Application Error EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 07:47:11 PM Critical Security EventID 1002 User: Guest - The operation completed successfully.
+06/23/2025 07:46:11 PM Information Security EventID 1000 User: SYSTEM - Service crash detected by system.
+06/23/2025 07:45:11 PM Error Security EventID 7000 User: Guest - The operation completed successfully.
+06/23/2025 07:44:11 PM Error Windows Update EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 07:43:11 PM Information Security EventID 1004 User: Admin - The operation completed successfully.
+06/23/2025 07:42:11 PM Critical Windows Update EventID 1000 User: LocalService - The operation completed successfully.
+06/23/2025 07:41:11 PM Error System EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 07:40:11 PM Critical Security EventID 1004 User: LocalService - The operation completed successfully.
+06/23/2025 07:39:11 PM Information Security EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 07:38:11 PM Information Security EventID 7000 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:37:11 PM Information Security EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 07:36:11 PM Critical Application Error EventID 6005 User: SYSTEM - Suspicious process started detected by system.
+06/23/2025 07:35:11 PM Critical System EventID 1101 User: Admin - The operation completed successfully.
+06/23/2025 07:34:11 PM Critical System EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:33:11 PM Critical System EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 07:32:11 PM Critical Windows Update EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 07:31:11 PM Information Security EventID 4625 User: LocalService - The operation completed successfully.
+06/23/2025 07:30:11 PM Critical Application Error EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 07:29:11 PM Error Service Control Manager EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:28:11 PM Critical Service Control Manager EventID 1000 User: Admin - The operation completed successfully.
+06/23/2025 07:27:11 PM Error Windows Update EventID 4625 User: User1 - The operation completed successfully.
+06/23/2025 07:26:11 PM Warning System EventID 1001 User: Admin - Unexpected shutdown detected by system.
+06/23/2025 07:25:11 PM Critical System EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 07:24:11 PM Warning Application Error EventID 1101 User: Guest - The operation completed successfully.
+06/23/2025 07:23:11 PM Critical Security EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 07:22:11 PM Critical Application Error EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:21:11 PM Information Windows Update EventID 1026 User: User1 - The operation completed successfully.
+06/23/2025 07:20:11 PM Information System EventID 1004 User: Admin - The operation completed successfully.
+06/23/2025 07:19:11 PM Error Service Control Manager EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 07:18:11 PM Critical Application Error EventID 1101 User: Guest - The operation completed successfully.
+06/23/2025 07:17:11 PM Critical System EventID 1026 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:16:11 PM Warning System EventID 1026 User: Admin - Unexpected shutdown detected by system.
+06/23/2025 07:15:11 PM Critical Windows Update EventID 1026 User: Admin - The operation completed successfully.
+06/23/2025 07:14:11 PM Error Service Control Manager EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 07:13:11 PM Warning Windows Update EventID 4625 User: Guest - The operation completed successfully.
+06/23/2025 07:12:11 PM Information Windows Update EventID 1000 User: User1 - The operation completed successfully.
+06/23/2025 07:11:11 PM Information System EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 07:10:11 PM Critical Security EventID 1002 User: Admin - The operation completed successfully.
+06/23/2025 07:09:11 PM Critical System EventID 1000 User: Guest - The operation completed successfully.
+06/23/2025 07:08:11 PM Error Service Control Manager EventID 1026 User: Guest - The operation completed successfully.
+06/23/2025 07:07:11 PM Error Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:06:11 PM Error Security EventID 1026 User: LocalService - Port scanning activity detected by system.
+06/23/2025 07:05:11 PM Critical Windows Update EventID 1000 User: Guest - The operation completed successfully.
+06/23/2025 07:04:11 PM Critical Application Error EventID 4625 User: SYSTEM - The operation completed successfully.
+06/23/2025 07:03:11 PM Information Application Error EventID 7000 User: User1 - The operation completed successfully.
+06/23/2025 07:02:11 PM Warning Service Control Manager EventID 1026 User: Admin - The operation completed successfully.
+06/23/2025 07:01:11 PM Critical Application Error EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 07:00:11 PM Error Service Control Manager EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 06:59:11 PM Information Security EventID 4625 User: Guest - The operation completed successfully.
+06/23/2025 06:58:11 PM Critical Windows Update EventID 4625 User: Guest - The operation completed successfully.
+06/23/2025 06:57:11 PM Error Security EventID 4625 User: Admin - The operation completed successfully.
+06/23/2025 06:56:11 PM Error Application Error EventID 1002 User: Admin - Unauthorized access attempt detected by system.
+06/23/2025 06:55:11 PM Warning Service Control Manager EventID 7031 User: Guest - The operation completed successfully.
+06/23/2025 06:54:11 PM Critical Application Error EventID 7031 User: LocalService - The operation completed successfully.
+06/23/2025 06:53:11 PM Error System EventID 1000 User: LocalService - The operation completed successfully.
+06/23/2025 06:52:11 PM Warning Windows Update EventID 7031 User: User1 - The operation completed successfully.
+06/23/2025 06:51:11 PM Warning Application Error EventID 1002 User: LocalService - The operation completed successfully.
+06/23/2025 06:50:11 PM Information Application Error EventID 1000 User: Guest - The operation completed successfully.
+06/23/2025 06:49:11 PM Critical Application Error EventID 6005 User: User1 - The operation completed successfully.
+06/23/2025 06:48:11 PM Information Windows Update EventID 6005 User: Guest - The operation completed successfully.
+06/23/2025 06:47:11 PM Critical System EventID 1000 User: SYSTEM - The operation completed successfully.
+06/23/2025 06:46:11 PM Critical Windows Update EventID 4625 User: User1 - Malware detection detected by system.
+06/23/2025 06:45:11 PM Critical Service Control Manager EventID 1026 User: Admin - The operation completed successfully.
+06/23/2025 06:44:11 PM Information Windows Update EventID 1101 User: Admin - The operation completed successfully.
+06/23/2025 06:43:11 PM Critical System EventID 1004 User: Guest - The operation completed successfully.
+06/23/2025 06:42:11 PM Critical Application Error EventID 1026 User: SYSTEM - The operation completed successfully.
+06/23/2025 06:41:11 PM Critical Service Control Manager EventID 1101 User: LocalService - The operation completed successfully.
+06/23/2025 06:40:11 PM Error Windows Update EventID 1002 User: User1 - The operation completed successfully.
+06/23/2025 06:39:11 PM Information Service Control Manager EventID 7031 User: SYSTEM - The operation completed successfully.
+06/23/2025 06:38:11 PM Warning Security EventID 1002 User: Guest - The operation completed successfully.
+06/23/2025 06:37:11 PM Critical Application Error EventID 1000 User: Admin - The operation completed successfully.
