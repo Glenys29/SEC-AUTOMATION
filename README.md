@@ -12,3 +12,19 @@ This project is a Python-based security automation system designed to parse and 
 - Prints alert messages to the terminal for detected threats.
 - Modular and easy-to-extend Python code.
 
+### Technologies Used
+- Python 3.10+
+- Standard Python libraries (`re`, `time`, `collections`, etc.)
+- Git for version control
+## Project Structure
+SEC-AUTOMATION/
+├── Logs/
+│ └── windows_eventlogs.log # Windows event log data 
+├── src/
+│ ├── log_collector.py # Reads the log file line by line
+│ ├── log_parser.py # Detects anomalies using keyword matching and regular expression
+│ ├── alert_sender.py # Send an alert when an anomaly is detected
+│ └── main.py # Runs the system
+
+
+
